@@ -1,5 +1,9 @@
-![github stats](https://github-readme-stats.vercel.app/api?username=azanbinzahid&show_icons=true&theme=react)
-=======================================
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azanbinzahid&theme=react&layout=compact)
-=======================================
+- Software Development Engineer II at Amazon
+- [ex] Sr. Software Engineer at Arbisoft (client: edX) 
+- Led the development team of Open Data Pakistan
+- Competitive Programmer. Conference Speaker 
+- Google CodeU APAC Singapore Participant
+- Top Rated Freelancer on Upwork Inc.
+- [Inter]national Hackathons Winner 
+- [ex] Developer Student Club Lead
+- [ex] President, IEEE CS LUMS
